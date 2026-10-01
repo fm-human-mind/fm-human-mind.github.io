@@ -76,7 +76,7 @@ The updated timeline will be announced soon.
 
 ### Debate Topic 1: Training & emergent properties
 
-*Brain data vs. behavioral data for training foundation models*
+**Brain data vs. behavioral data for training foundation models**
 
 Should foundation models of the human mind learn from what humans do, or from what human brains do? Behavioral data provide an enormous and diverse source of supervision, while neural data offer a more direct window into the biological processes underlying cognition. This debate will compare the emergent properties of models trained primarily or exclusively on behavioral data with those trained on human brain data: What capabilities, representations, and cognitive phenomena emerge in each setting, and how do they differ? Does brain-based training lead to properties that cannot be obtained from behavioral training alone? Conversely, what aspects of human cognition are better captured by behavioral data? The debate will ultimately ask whether brain data offer unique benefits as a training signal for foundation models of the human mind, and under what circumstances those benefits justify the substantial challenges of collecting and using neural data.
 
@@ -110,7 +110,7 @@ What should we use foundation models of the mind for: testing hypotheses or gene
 
 ### Debate Topic 3: Validation
 
-*Desiderata vs. evaluation*
+**Desiderata vs. evaluation**
 
 Is there a mismatch between how foundation models of the human mind are currently evaluated and their desired properties? Foundation models of the human mind can be evaluated in many ways: behavioral prediction, brain alignment, generalization, robustness, interpretability, cognitive plausibility. But these evaluations only make sense relative to a set of desiderata--what we actually want a foundation model of the human mind to achieve. One side will articulate the properties that an ideal model should have, while the other will examine how current models are actually evaluated. The debate will then bring the two perspectives together: where are the major gaps between what we say we want and what we measure? Conversely, what interesting capabilities or emergent properties have current models revealed that were never part of our original desiderata?
 
