@@ -12,6 +12,8 @@ Recent advances in foundation models have transformed how we build artificial sy
 
 Students will engage with recent research papers and develop individual projects that integrate foundation models with real human data, such as behavioral measurements or brain recordings, to investigate questions about representation, prediction, and mechanisms of the human mind.
 
+**First class: Thursday, 22 October 2026, 10:00-12:00.**
+
 
 **Instructor:** [Mariya Toneva](https://mtoneva.com/)
 
@@ -49,7 +51,6 @@ The course consists of three main components that contribute to the final grade 
 
 We will begin the course with background lectures.
 These introductory sessions aim to provide students with the technical and scientific foundations needed to understand and critically engage with research on foundation models of human behavior, cognition, and brain function.
-The dates and locations of the lectures are specified in the timeline below.
 
 ### Debates
 
@@ -64,9 +65,10 @@ Projects should investigate a question related to the representation, prediction
 
 ## Timeline
 
-Classes will be held on *Thursdays, 10-12h*. 
+Classes will be held on *Thursdays, 10-12h*.
 
-First class: **22.10.2026**.
+**First class: 22.10.2026 at 10h.**
+
 The updated timeline will be announced soon.
 
 
