@@ -63,7 +63,7 @@ The dates and locations of the lectures are specified in the timeline below.
 ### Debates
 
 Three class sessions will be dedicated to debates around open questions in foundation models of the human mind.
-Students will participate in debates (see the [debate topics](#debates) below), prepare positions on assigned topics, and engage in discussion and Q&A.
+Students will participate in debates (see the [debate topics](#debate-topics) below), prepare positions on assigned topics, and engage in discussion and Q&A.
 
 ### Projects
 
