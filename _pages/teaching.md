@@ -12,7 +12,6 @@ Recent advances in foundation models have transformed how we build artificial sy
 
 Students will engage with recent research papers and develop individual projects that integrate foundation models with real human data, such as behavioral measurements or brain recordings, to investigate questions about representation, prediction, and mechanisms of the human mind.
 
-Please see the [requirements](#requirements) below.
 
 **Instructor:** [Mariya Toneva](https://mtoneva.com/)
 
@@ -38,31 +37,23 @@ The course consists of three main components that contribute to the final grade 
 
 - Attendance (10%)
 - Debate (40%)
-  - Participating in debate x 1 (20%)
-  - Participating in Q&A x 2 (10%)
-  - Position x 2 (10%)
+  - Participating in debate (20%)
+  - Participating in Q&A (10%)
+  - Position (10%)
 - Project (50%)
   - Proposal (10%)
   - Report and code (20%)
   - Presentation (20%)
 
-### Requirements
-
-This seminar is primarily aimed at graduate students in Computer Science, Data Science, Artificial Intelligence, or Language Technologies, and related fields, who have prior knowledge of machine learning. Participants are expected to have completed one or more courses related to machine learning, such as Core Machine Learning, Elements of Machine Learning, Linear Algebra, Neural Networks, or equivalent courses. The course is suitable for students who are interested in related topics such as neuroscience, psychology, and natural language processing.
-
-We are requesting you to provide a short motivation letter explaining the reasons why you are interested in taking this seminar. In this motivation letter, you can also mention any relevant project(s) you have done and any relevant courses you have taken. Please provide this information in the Motivation text box.						
-
-**Places:** 20.
-
 ### Background lectures
 
-We will begin the course with three lectures.
+We will begin the course with background lectures.
 These introductory sessions aim to provide students with the technical and scientific foundations needed to understand and critically engage with research on foundation models of human behavior, cognition, and brain function.
 The dates and locations of the lectures are specified in the timeline below.
 
 ### Debates
 
-Three class sessions will be dedicated to debates around open questions in foundation models of the human mind.
+Some class sessions will be dedicated to debates around open questions in foundation models of the human mind.
 Students will participate in debates (see the [debate topics](#debate-topics) below), prepare positions on assigned topics, and engage in discussion and Q&A.
 
 ### Projects
@@ -71,38 +62,13 @@ Students will develop an individual research project that integrates foundation 
 Projects should investigate a question related to the representation, prediction, evaluation, or scientific use of foundation models of the human mind.
 
 
----
-
-
 ## Timeline
 
-| Date       | Agenda                          | Deliverables                                      | Time & Location |
-|:-----------|:--------------------------------|:--------------------------------------------------|:----------------|
-| Oct 22     | Background lecture              |                                                   | 10-12h, Room TBD |
-| Oct 29     |                                 |                                                   |                  |
-| Nov 5      | Background lecture              |                                                   | 10-12h, Room TBD |
-| Nov 12     | Background lecture              | Project topics                                    | 10-12h, Room TBD |
-| Nov 19     | Debate 1                        |                                                   | 10-12h, Room TBD |
-| Nov 26     | Debate 2                        |                                                   | 10-12h, Room TBD |
-| Dec 3      | Debate 3                        |                                                   | 10-12h, Room TBD |
-| Dec 10     | No class                        | Tutorial & recording                              |                  |
-| Dec 17     | Tutorial & QA                   | [Optional] Draft project proposals due            |                  |
-| Dec 24     |                                 |                                                   |                  |
-| Dec 31     |                                 |                                                   |                  |
-| Jan 7      |                                 | Project proposal due                              |                  |
-| Jan 14     |                                 | Proposal feedback by email                        |                  |
-| Jan 21     |                                 |                                                   |                  |
-| Jan 28     |                                 |                                                   |                  |
-| Feb 4      |                                 |                                                   |                  |
-| Feb 11     |                                 |                                                   |                  |
-| Feb 18     |                                 |                                                   |                  |
-| Feb 25     |                                 | Report and code due                               |                  |
-| Mar 4      | Project presentations           |                                                   | 10-12h, Room TBD |
-| Mar 11     | Project presentations           |                                                   | 10-12h, Room TBD |
-| Mar 18     | Project presentations           |                                                   | 10-12h, Room TBD |
-| Mar 25     |                                 |                                                   |                  |
+Classes will be held on *Thursdays, 10-12h*. 
 
----
+First class: **22.10.2026**.
+The updated timeline will be announced soon.
+
 
 ## Debate Topics
 
@@ -120,13 +86,13 @@ The debate will ultimately ask whether brain data offer unique benefits as a tra
 
 **Papers**
 
-**Brain side:**
+*TBD.*
 
 *To be added.*
 
 **Behavior side:**
 
-*To be added.*
+*TBD.*
 
 
 ### Debate Topic 2: Scientific use
@@ -145,11 +111,11 @@ This debate will ask which approach offers greater scientific leverage and what 
 
 **Computational models side:**
 
-*To be added.*
+*TBD.*
 
 **Model organisms side:**
 
-*To be added.*
+*TBD.*
 
 
 ### Debate Topic 3: Validation
@@ -170,19 +136,9 @@ Conversely, what interesting capabilities or emergent properties have current mo
 
 **Desiderata:**
 
-*To be added.*
+*TBD.*
 
 **Evaluation:**
 
-*To be added.*
-
----
-
-## Project ideas
-
-A few initial directions include:
-
-- Training on synthetic data generated by a brain foundation model
-- *To be added.*
-
+*TBD.*
 
