@@ -84,8 +84,6 @@ Should foundation models of the human mind learn from what humans do, or from wh
 
 *TBD.*
 
-*To be added.*
-
 **Behavior side:**
 
 *TBD.*
