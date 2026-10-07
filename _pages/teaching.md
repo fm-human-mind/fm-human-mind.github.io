@@ -12,7 +12,7 @@ Recent advances in foundation models have transformed how we build artificial sy
 
 Students will engage with recent research papers and develop individual projects that integrate foundation models with real human data, such as behavioral measurements or brain recordings, to investigate questions about representation, prediction, and mechanisms of the human mind.
 
-**First class: Thursday, 22 October 2026, 10:00-12:00.**
+**First class: Thursday, 22 October 2026, 10:00-12:00 in Building E1 5, Room 005.**
 
 
 **Instructor:** [Mariya Toneva](https://mtoneva.com/)
