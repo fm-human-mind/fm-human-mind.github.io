@@ -28,8 +28,7 @@ Students will engage with recent research papers and develop individual projects
 - [Timeline](#timeline)
 - [Debate topics](#debate-topics)
   - [Debate Topic 1: Training & emergent properties](#debate-topic-1-training--emergent-properties)
-  - [Debate Topic 2: Scientific use](#debate-topic-2-scientific-use)
-  - [Debate Topic 3: Validation](#debate-topic-3-validation)
+  - [Debate Topic 2: Scientific use & validation](#debate-topic-2-scientific-use)
 - [Project ideas](#project-ideas)
 
 
@@ -89,28 +88,11 @@ Should foundation models of the human mind learn from what humans do, or from wh
 *TBD.*
 
 
-### Debate Topic 2: Scientific use
-
-**Computational models vs. model organisms**
-
-What should we use foundation models of the mind for: testing hypotheses or generating them? As computational models, foundation models can be systematically modified--for example, by changing their architecture, learning objective, or training environment--to implement specific existing hypotheses about cognitive mechanisms and test their predictive power on new experimental data. As model organisms, they can instead be treated as complex systems in their own right: researchers can discover mechanisms and representations inside them and use these discoveries to generate new hypotheses about human cognition and the brain. This debate will ask which approach offers greater scientific leverage and what would constitute convincing evidence that a foundation model has taught us something new about the human mind.
-
-**Papers**
-
-**Computational models side:**
-
-*TBD.*
-
-**Model organisms side:**
-
-*TBD.*
-
-
-### Debate Topic 3: Validation
+### Debate Topic 2: Scientific use & validation
 
 **Desiderata vs. evaluation**
 
-Is there a mismatch between how foundation models of the human mind are currently evaluated and their desired properties? Foundation models of the human mind can be evaluated in many ways: behavioral prediction, brain alignment, generalization, robustness, interpretability, cognitive plausibility. But these evaluations only make sense relative to a set of desiderata--what we actually want a foundation model of the human mind to achieve. One side will articulate the properties that an ideal model should have, while the other will examine how current models are actually evaluated. The debate will then bring the two perspectives together: where are the major gaps between what we say we want and what we measure? Conversely, what interesting capabilities or emergent properties have current models revealed that were never part of our original desiderata?
+Should foundation models of the human mind primarily test existing theories of cognition, generate new hypotheses, or serve as benchmarks for evaluating our understanding of the mind? As computational models, they can instantiate specific hypotheses about cognitive mechanisms and test their predictions; as model organisms, they can reveal unexpected representations and mechanisms that inspire new theories. Yet neither approach guarantees scientific insight: predictive accuracy and brain alignment may not establish that a model captures the mechanisms underlying human cognition. This debate will ask what we should want from foundation models of the mind, how we should evaluate whether they achieve it, and whether current evaluation practices measure the properties that matter most. It will also consider whether discoveries made possible by these models should reshape our original scientific desiderata.
 
 **Papers**
 
