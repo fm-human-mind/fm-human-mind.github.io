@@ -71,8 +71,8 @@ Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5.
 | Oct 22 | Introduction to the course | 10:00-12:00, Room 005, E1 5 |
 | Oct 29 | *No class* | |
 | Nov 5 | Background lecture 1 | 10:00-12:00, Room 005, E1 5 |
-| Nov 12 | Background lecture 2 | 10:00-12:00, Room 005, E1 5 |
-| Nov 19 | Background lecture 3 | 10:00-12:00, **Room 105**, E1 5 |
+| Nov 12 | *No class* | |
+| Nov 19 | Background lecture 2 | 10:00-12:00, **Room 105**, E1 5 |
 | Nov 26 | [Debate 1: Training & emergent properties](#debate-topic-1-training--emergent-properties) | 10:00-12:00, Room 005, E1 5 |
 | Dec 3 | [Debate 2: Scientific use & validation](#debate-topic-2-scientific-use--validation) | 10:00-12:00, Room 005, E1 5 |
 | Dec 10 | *No class* | |
