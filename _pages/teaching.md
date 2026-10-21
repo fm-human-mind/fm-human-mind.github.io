@@ -94,14 +94,14 @@ Should foundation models of the human mind learn from what humans do, or from wh
 
 **Brain side:**
 
-- Ortega Caro et al. (2024). [BrainLM: A foundation model for brain activity recordings](https://proceedings.iclr.cc/paper_files/paper/2024/hash/029ce70401321de3808b3ac39e1ab167-Abstract-Conference.html). *ICLR 2024*. (BrainLM)
-- d'Ascoli et al. (2026). [A foundation model of vision, audition, and language for in-silico neuroscience](https://arxiv.org/abs/2605.04326). *arXiv:2605.04326*. (TRIBE v2)
-- Moussa & Toneva (2026). [RABBiT: Rapidly adaptive BOLD foundation model via brain-tuning for accurate zero-shot and few-shot prediction of speech-elicited responses in the brain](https://arxiv.org/abs/2607.05171). *NeurIPS 2026*. (RABBiT)
+- Ortega Caro et al. (2024). [BrainLM: A foundation model for brain activity recordings](https://proceedings.iclr.cc/paper_files/paper/2024/hash/029ce70401321de3808b3ac39e1ab167-Abstract-Conference.html). *ICLR 2024*.
+- d'Ascoli et al. (2026). [A foundation model of vision, audition, and language for in-silico neuroscience](https://arxiv.org/abs/2605.04326). *arXiv:2605.04326*.
+- Moussa & Toneva (2026). [RABBiT: Rapidly adaptive BOLD foundation model via brain-tuning for accurate zero-shot and few-shot prediction of speech-elicited responses in the brain](https://arxiv.org/abs/2607.05171). *NeurIPS 2026*.
 
 **Behavior side:**
 
-- Binz et al. (2025). [A foundation model to predict and capture human cognition](https://doi.org/10.1038/s41586-025-09215-4). *Nature*. (Centaur)
-- Muttenthaler et al. (2025). [Aligning machine and human visual representations across abstraction levels](https://doi.org/10.1038/s41586-025-09631-6). *Nature*. (AligNet)
+- Binz et al. (2025). [A foundation model to predict and capture human cognition](https://doi.org/10.1038/s41586-025-09215-4). *Nature*.
+- Muttenthaler et al. (2025). [Aligning machine and human visual representations across abstraction levels](https://doi.org/10.1038/s41586-025-09631-6). *Nature*.
 - Contier, Baker & Hebart (2024). [Distributed representations of behaviour-derived object dimensions in the human visual system](https://doi.org/10.1038/s41562-024-01980-y). *Nature Human Behaviour*.
 - Binz & Schulz (2026). [A small cognitive core explains human behavior at scale](https://arxiv.org/abs/2610.13603). *arXiv:2610.13603*.
 
@@ -125,7 +125,7 @@ Should foundation models of the human mind primarily test existing theories of c
 
 **Evaluation:**
 
-- Schrimpf et al. (2018). [Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?](https://doi.org/10.1101/407007) *bioRxiv*. (Brain-Score)
+- Schrimpf et al. (2018). [Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?](https://doi.org/10.1101/407007) *bioRxiv*.
 - Yamins & Nayebi (2026). [Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks](https://arxiv.org/abs/2607.08561). *arXiv:2607.08561*.
 - Schmitt et al. (2026). [A decade of comparing brains to DNNs: Progress and perspectives](https://pubmed.ncbi.nlm.nih.gov/42463327/). *Trends in Cognitive Sciences*.
 - Honarmand et al. (2026). [Inducing Dyslexia in Vision Language Models](https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b03821747e89ce803b2dac590f6a39b-Abstract-Conference.html). *ICLR 2026*.
