@@ -64,7 +64,7 @@ Projects should investigate a question related to the representation, prediction
 
 ## Timeline
 
-Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5. Please note that the room changes for some sessions (marked in **bold**).
+Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5.
 
 | Date | Session | Time & Location |
 | :--- | :--- | :--- |
