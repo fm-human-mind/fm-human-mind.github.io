@@ -71,15 +71,15 @@ Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5. Pl
 | Oct 22 | Introduction to the course | 10:00-12:00, Room 005, E1 5 |
 | Oct 29 | *No class* | |
 | Nov 5 | Background lecture 1 | 10:00-12:00, Room 005, E1 5 |
-| Nov 12 | Background lecture 2 <br> Project topics released | 10:00-12:00, Room 005, E1 5 |
+| Nov 12 | Background lecture 2 | 10:00-12:00, Room 005, E1 5 |
 | Nov 19 | Background lecture 3 | 10:00-12:00, **Room 105**, E1 5 |
 | Nov 26 | [Debate 1: Training & emergent properties](#debate-topic-1-training--emergent-properties) | 10:00-12:00, Room 005, E1 5 |
 | Dec 3 | [Debate 2: Scientific use & validation](#debate-topic-2-scientific-use--validation) | 10:00-12:00, Room 005, E1 5 |
 | Dec 10 | *No class* | |
-| Dec 17 | Tutorial & Q&A <br> Optional: draft project proposals due | 10:00-12:00, Room 005, E1 5 |
+| Dec 17 | Tutorial & Q&A | 10:00-12:00, Room 005, E1 5 |
 | Jan 7 | Project proposals due | |
-| Jan 14 | Instructors email feedback on project proposals | |
-| Mar 1-15 | Final project presentations (exact date TBA) | TBA |
+| Jan 14 | Feedback on project proposals | |
+| Mar 1-15 | Final project presentations | TBA |
 
 
 ## Debate Topics
