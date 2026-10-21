@@ -28,7 +28,7 @@ Students will engage with recent research papers and develop individual projects
 - [Timeline](#timeline)
 - [Debate topics](#debate-topics)
   - [Debate Topic 1: Training & emergent properties](#debate-topic-1-training--emergent-properties)
-  - [Debate Topic 2: Scientific use & validation](#debate-topic-2-scientific-use)
+  - [Debate Topic 2: Scientific use & validation](#debate-topic-2-scientific-use--validation)
 - [Project ideas](#project-ideas)
 
 
@@ -64,11 +64,22 @@ Projects should investigate a question related to the representation, prediction
 
 ## Timeline
 
-Classes will be held on *Thursdays, 10-12h*.
+Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5. Please note that the room changes for some sessions (marked in **bold**).
 
-**First class: 22.10.2026 at 10h.**
-
-The updated timeline will be announced soon.
+| Date | Session | Time & Location |
+| :--- | :--- | :--- |
+| Oct 22 | Introduction to the course | 10:00-12:00, Room 005, E1 5 |
+| Oct 29 | *No class* | |
+| Nov 5 | Background lecture 1 | 10:00-12:00, Room 005, E1 5 |
+| Nov 12 | Background lecture 2 <br> Project topics released | 10:00-12:00, Room 005, E1 5 |
+| Nov 19 | Background lecture 3 | 10:00-12:00, **Room 105**, E1 5 |
+| Nov 26 | [Debate 1: Training & emergent properties](#debate-topic-1-training--emergent-properties) | 10:00-12:00, Room 005, E1 5 |
+| Dec 3 | [Debate 2: Scientific use & validation](#debate-topic-2-scientific-use--validation) | 10:00-12:00, Room 005, E1 5 |
+| Dec 10 | *No class* | |
+| Dec 17 | Tutorial & Q&A <br> Optional: draft project proposals due | 10:00-12:00, Room 005, E1 5 |
+| Jan 7 | Project proposals due | |
+| Jan 14 | Instructors email feedback on project proposals | |
+| Mar 1-15 | Final project presentations (exact date TBA) | TBA |
 
 
 ## Debate Topics
@@ -81,11 +92,18 @@ Should foundation models of the human mind learn from what humans do, or from wh
 
 **Papers**
 
-*TBD.*
+**Brain side:**
+
+- Ortega Caro et al. (2024). [BrainLM: A foundation model for brain activity recordings](https://proceedings.iclr.cc/paper_files/paper/2024/hash/029ce70401321de3808b3ac39e1ab167-Abstract-Conference.html). *ICLR 2024*. (BrainLM)
+- d'Ascoli et al. (2026). [A foundation model of vision, audition, and language for in-silico neuroscience](https://arxiv.org/abs/2605.04326). *arXiv:2605.04326*. (TRIBE v2)
+- Moussa & Toneva (2026). [RABBiT: Rapidly adaptive BOLD foundation model via brain-tuning for accurate zero-shot and few-shot prediction of speech-elicited responses in the brain](https://arxiv.org/abs/2607.05171). *NeurIPS 2026*. (RABBiT)
 
 **Behavior side:**
 
-*TBD.*
+- Binz et al. (2025). [A foundation model to predict and capture human cognition](https://doi.org/10.1038/s41586-025-09215-4). *Nature*. (Centaur)
+- Muttenthaler et al. (2025). [Aligning machine and human visual representations across abstraction levels](https://doi.org/10.1038/s41586-025-09631-6). *Nature*. (AligNet)
+- Contier, Baker & Hebart (2024). [Distributed representations of behaviour-derived object dimensions in the human visual system](https://doi.org/10.1038/s41562-024-01980-y). *Nature Human Behaviour*.
+- Binz & Schulz (2026). [A small cognitive core explains human behavior at scale](https://arxiv.org/abs/2610.13603). *arXiv:2610.13603*.
 
 
 ### Debate Topic 2: Scientific use & validation
@@ -98,9 +116,17 @@ Should foundation models of the human mind primarily test existing theories of c
 
 **Desiderata:**
 
-*TBD.*
+- Orr et al. (2025). [Not Even Wrong: On the Limits of Prediction as Explanation in Cognitive Science](https://arxiv.org/abs/2510.03311). *arXiv:2510.03311*.
+- Ying et al. (2026). [CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition](https://arxiv.org/abs/2609.21259). *arXiv:2609.21259*.
+- Höfling et al. (2026). [Only Brains Align with Brains: Cross-Region Alignment Patterns Expose Limits of Normative Models](https://arxiv.org/abs/2604.21780). *ICLR 2026*.
+- Feather et al. (2025). [Brain-Model Evaluations Need the NeuroAI Turing Test](https://arxiv.org/abs/2502.16238). *arXiv:2502.16238*.
+- Jagadish et al. (2026). [Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist](https://arxiv.org/abs/2606.26448). *arXiv:2606.26448*.
+- *Bonus:* Mineault, Griffiths & Escola (2026). [Cognitive Dark Matter: Measuring What AI Misses](https://arxiv.org/abs/2603.03414). *arXiv:2603.03414*.
 
 **Evaluation:**
 
-*TBD.*
+- Schrimpf et al. (2018). [Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?](https://doi.org/10.1101/407007) *bioRxiv*. (Brain-Score)
+- Yamins & Nayebi (2026). [Contravariance Theory: Strong Alignment for Minimal Solutions to Hard Tasks](https://arxiv.org/abs/2607.08561). *arXiv:2607.08561*.
+- Schmitt et al. (2026). [A decade of comparing brains to DNNs: Progress and perspectives](https://pubmed.ncbi.nlm.nih.gov/42463327/). *Trends in Cognitive Sciences*.
+- Honarmand et al. (2026). [Inducing Dyslexia in Vision Language Models](https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b03821747e89ce803b2dac590f6a39b-Abstract-Conference.html). *ICLR 2026*.
 
