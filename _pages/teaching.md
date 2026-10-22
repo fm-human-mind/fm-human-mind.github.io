@@ -68,7 +68,7 @@ Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5.
 
 | Date | Session | Time & Location |
 | :--- | :--- | :--- |
-| Oct 22 | Introduction to the course | 10:00-12:00, Room 005, E1 5 |
+| Oct 22 | Introduction to the course [Slides](https://docs.google.com/presentation/d/1_6bdci6aBnafj4cv1khYdm6CgxC0gv5GheYE9NgOt4s/edit?usp=sharing) | 10:00-12:00, Room 005, E1 5 |
 | Oct 29 | *No class* | |
 | Nov 5 | Background lecture 1 | 10:00-12:00, Room 005, E1 5 |
 | Nov 12 | *No class* | |
