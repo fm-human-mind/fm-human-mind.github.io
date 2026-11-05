@@ -70,7 +70,7 @@ Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5.
 | :--- | :--- | :--- |
 | Oct 22 | Introduction to the course [[Slides]](https://docs.google.com/presentation/d/1_6bdci6aBnafj4cv1khYdm6CgxC0gv5GheYE9NgOt4s/edit?usp=sharing) | 10:00-12:00, Room 005, E1 5 |
 | Oct 29 | *No class* | |
-| Nov 5 | Background lecture 1 | 10:00-12:00, Room 005, E1 5 |
+| Nov 5 | Background lecture 1 [[Slides]](https://docs.google.com/presentation/d/1W-lNYjt5ZuAnRMm0eFlRuXD25LtXfHl3/edit?usp=sharing&ouid=105637917572978996244&rtpof=true&sd=true) | 10:00-12:00, Room 005, E1 5 |
 | Nov 12 | *No class* | |
 | Nov 19 | Background lecture 2 | 10:00-12:00, **Room 105**, E1 5 |
 | Nov 26 | [Debate 1: Training & emergent properties](#debate-topic-1-training--emergent-properties) | 10:00-12:00, Room 005, E1 5 |
