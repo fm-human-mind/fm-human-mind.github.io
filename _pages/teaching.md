@@ -24,7 +24,7 @@ Students will engage with recent research papers and develop individual projects
   - [Requirements](#requirements)
   - [Background lectures](#background-lectures)
   - [Debates](#debates)
-    - [Debate report](#debate-report)
+    - [Debate position](#debate-position)
   - [Projects](#projects)
 - [Timeline](#timeline)
 - [Debate topics](#debate-topics)
@@ -41,7 +41,7 @@ The course consists of three main components that contribute to the final grade 
 - Debate (40%)
   - Participating in debate (20%)
   - Participating in Q&A (10%)
-  - Position (10%)
+  - Debate position (10%)
 - Project (50%)
   - Proposal (10%)
   - Report and code (20%)
@@ -55,13 +55,13 @@ These introductory sessions aim to provide students with the technical and scien
 ### Debates
 
 Two class sessions will be dedicated to debates around open questions in foundation models of the human mind (see the [debate topics](#debate-topics) below).
-The class is split into two halves: each student *presents in one debate* and, for the other one, *joins the discussion and writes an opinion report*.
+The class is split into two halves: each student *presents in one debate* and, for the other one, *joins the discussion and writes a debate position*.
 
-#### Debate report
+#### Debate position
 
-The opinion report (max. 2 pages, excluding references) summarizes both sides of the debate, states and defends your own position, and describes what evidence would change your mind.
-Please [use the LaTeX template]({{ '/assets/templates/debate_report_template.zip' | relative_url }}).
-The template contains `seminar.tex` (the report skeleton with instructions for each section), `seminar.sty` (style file) and `seminar.bib` (bibliography).
+The debate position (max. 2 pages, excluding references) summarizes both sides of the debate, states and defends your own position, and describes what evidence would change your mind.
+Please [use the LaTeX template]({{ '/assets/templates/debate_position_template.zip' | relative_url }}).
+The template contains `seminar.tex` (the skeleton of the debate position, with instructions for each section), `seminar.sty` (style file) and `seminar.bib` (bibliography).
 
 
 ### Projects
@@ -92,7 +92,7 @@ Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5.
 
 ## Debate Topics
 
-For each debate, read the assigned papers for both sides. If you are not presenting a debate, you join its discussion and write an opinion report on it (see [Debate report](#debate-report)).
+For each debate, read the assigned papers for both sides. If you are not presenting a debate, you join its discussion and write a debate position on it (see [Debate position](#debate-position)).
 
 ### Debate Topic 1: Training & emergent properties
 
