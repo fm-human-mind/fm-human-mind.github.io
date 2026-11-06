@@ -24,6 +24,7 @@ Students will engage with recent research papers and develop individual projects
   - [Requirements](#requirements)
   - [Background lectures](#background-lectures)
   - [Debates](#debates)
+    - [Debate report](#debate-report)
   - [Projects](#projects)
 - [Timeline](#timeline)
 - [Debate topics](#debate-topics)
@@ -53,8 +54,15 @@ These introductory sessions aim to provide students with the technical and scien
 
 ### Debates
 
-Some class sessions will be dedicated to debates around open questions in foundation models of the human mind.
-Students will participate in debates (see the [debate topics](#debate-topics) below), prepare positions on assigned topics, and engage in discussion and Q&A.
+Two class sessions will be dedicated to debates around open questions in foundation models of the human mind (see the [debate topics](#debate-topics) below).
+The class is split into two halves: each student *presents in one debate* and, for the other one, *joins the discussion and writes an opinion report*.
+
+#### Debate report
+
+The opinion report (max. 2 pages, excluding references) summarizes both sides of the debate, states and defends your own position, and describes what evidence would change your mind.
+Please [use the LaTeX template]({{ '/assets/templates/debate_report_template.zip' | relative_url }}).
+The template contains `seminar.tex` (the report skeleton with instructions for each section), `seminar.sty` (style file) and `seminar.bib` (bibliography).
+
 
 ### Projects
 
@@ -83,6 +91,8 @@ Classes will be held in person on *Thursdays, 10:00-12:00*, in Building E1 5.
 
 
 ## Debate Topics
+
+For each debate, read the assigned papers for both sides. If you are not presenting a debate, you join its discussion and write an opinion report on it (see [Debate report](#debate-report)).
 
 ### Debate Topic 1: Training & emergent properties
 
