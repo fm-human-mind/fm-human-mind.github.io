@@ -56,7 +56,7 @@ These introductory sessions aim to provide students with the technical and scien
 
 Two class sessions will be dedicated to debates around open questions in foundation models of the human mind (see the [debate topics](#debate-topics) below).
 The class is split into two halves: each student *presents in one debate* and, for the other one, *joins the discussion and writes a debate position*.
-Please adhere to our guide when preparing your debate presentations: [[debate guide]](https://docs.google.com/presentation/d/19bogk4dlEEKB8ijgz9VjNKl0lWmqBwGe/edit?slide=id.p1#slide=id.p1).
+Please adhere to our guide when preparing your debate presentations: [debate guide](https://docs.google.com/presentation/d/19bogk4dlEEKB8ijgz9VjNKl0lWmqBwGe/edit?slide=id.p1#slide=id.p1).
 
 #### Debate position
 
