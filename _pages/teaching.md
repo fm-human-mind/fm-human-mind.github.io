@@ -56,13 +56,13 @@ These introductory sessions aim to provide students with the technical and scien
 
 Two class sessions will be dedicated to debates around open questions in foundation models of the human mind (see the [debate topics](#debate-topics) below).
 The class is split into two halves: each student *presents in one debate* and, for the other one, *joins the discussion and writes a debate position*.
-Please adhere to our guide when preparing your debate presentations: [debate guide](https://docs.google.com/presentation/d/19bogk4dlEEKB8ijgz9VjNKl0lWmqBwGe/edit?slide=id.p1#slide=id.p1).
+Please adhere to our guide when preparing your debate presentations: [debate guide](https://docs.google.com/presentation/d/19bogk4dlEEKB8ijgz9VjNKl0lWmqBwGe/edit?slide=id.p1#slide=id.p1). Moreover, please send the slides from your entire side of the debate to all instructors and all participants in the opposing side at least 24 hours before the start of the debate.
 
 #### Debate position
 
 The debate position (max. 2 pages, excluding references) summarizes both sides of the debate, states and defends your own position, and describes what evidence would change your mind.
 Please [use the LaTeX template]({{ '/assets/templates/debate_position_template.zip' | relative_url }}).
-The template contains `seminar.tex` (the skeleton of the debate position, with instructions for each section), `seminar.sty` (style file) and `seminar.bib` (bibliography).
+The template contains `seminar.tex` (the skeleton of the debate position, with instructions for each section), `seminar.sty` (style file) and `seminar.bib` (bibliography). Debate positions are due 2 weeks after the corresponding debate (time: Anywhere on Earth).
 
 
 ### Projects
